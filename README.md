@@ -20,3 +20,6 @@ This Streamlit web app predicts **Gestational Diabetes Mellitus (GDM)** using fi
 - Input: Preprocessed clinical and biochemical features
 - Output: Binary GDM prediction with probability
 
+SBDA Research Group
+Department of Computational Biology
+Amity University, India
